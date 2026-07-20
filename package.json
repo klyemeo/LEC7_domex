@@ -12,6 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "packageManager": "pnpm@11.10.0", 
   "type": "module",
   "dependencies": {
     "cors": "^2.8.6",
